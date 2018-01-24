@@ -17,7 +17,7 @@ solution/
 ExtendedValuesTest.java
 FractionTest.java
 Main.java
-TestRunnet.java
+TestRunner.java
 
 # Ignore Netbeans project files
 nbproject
